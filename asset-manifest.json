@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/counterApp/static/css/main.601e3c1c.chunk.css",
-    "main.js": "/counterApp/static/js/main.99a6076b.chunk.js",
-    "main.js.map": "/counterApp/static/js/main.99a6076b.chunk.js.map",
-    "runtime-main.js": "/counterApp/static/js/runtime-main.33ca7b01.js",
-    "runtime-main.js.map": "/counterApp/static/js/runtime-main.33ca7b01.js.map",
-    "static/js/2.3132f18e.chunk.js": "/counterApp/static/js/2.3132f18e.chunk.js",
-    "static/js/2.3132f18e.chunk.js.map": "/counterApp/static/js/2.3132f18e.chunk.js.map",
-    "static/js/3.f4970dd9.chunk.js": "/counterApp/static/js/3.f4970dd9.chunk.js",
-    "static/js/3.f4970dd9.chunk.js.map": "/counterApp/static/js/3.f4970dd9.chunk.js.map",
-    "index.html": "/counterApp/index.html",
-    "static/css/main.601e3c1c.chunk.css.map": "/counterApp/static/css/main.601e3c1c.chunk.css.map",
-    "static/js/2.3132f18e.chunk.js.LICENSE.txt": "/counterApp/static/js/2.3132f18e.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/counterApp/static/media/counting tool.57d37656.jpg"
+    "main.css": "/git@github.com:mharrell99/TodoApp.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/git@github.com:mharrell99/TodoApp.git/static/js/main.41313f2d.chunk.js",
+    "main.js.map": "/git@github.com:mharrell99/TodoApp.git/static/js/main.41313f2d.chunk.js.map",
+    "runtime-main.js": "/git@github.com:mharrell99/TodoApp.git/static/js/runtime-main.ed4b0623.js",
+    "runtime-main.js.map": "/git@github.com:mharrell99/TodoApp.git/static/js/runtime-main.ed4b0623.js.map",
+    "static/js/2.3ed44880.chunk.js": "/git@github.com:mharrell99/TodoApp.git/static/js/2.3ed44880.chunk.js",
+    "static/js/2.3ed44880.chunk.js.map": "/git@github.com:mharrell99/TodoApp.git/static/js/2.3ed44880.chunk.js.map",
+    "static/js/3.269a9758.chunk.js": "/git@github.com:mharrell99/TodoApp.git/static/js/3.269a9758.chunk.js",
+    "static/js/3.269a9758.chunk.js.map": "/git@github.com:mharrell99/TodoApp.git/static/js/3.269a9758.chunk.js.map",
+    "index.html": "/git@github.com:mharrell99/TodoApp.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/git@github.com:mharrell99/TodoApp.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3ed44880.chunk.js.LICENSE.txt": "/git@github.com:mharrell99/TodoApp.git/static/js/2.3ed44880.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git@github.com:mharrell99/TodoApp.git/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.33ca7b01.js",
-    "static/js/2.3132f18e.chunk.js",
-    "static/css/main.601e3c1c.chunk.css",
-    "static/js/main.99a6076b.chunk.js"
+    "static/js/runtime-main.ed4b0623.js",
+    "static/js/2.3ed44880.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.41313f2d.chunk.js"
   ]
 }
